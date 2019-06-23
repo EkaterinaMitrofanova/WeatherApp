@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_city">Искать город</string>
+    <string name="title_activity_main">Погода</string>
+    <string name="curr_location">Текущее местоположение</string>
+    <string name="ready">Готово</string>
+    <string name="add_city">Добавить город</string>
+</resources>
